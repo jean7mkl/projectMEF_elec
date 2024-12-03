@@ -1,0 +1,9 @@
+id_station,type_station,type_consommateur,id_centrale,capacity,load
+1,hvb,comp,C1,1000,500
+2,hvb,comp,C2,1500,600
+3,hvb,comp,C3,2000,700
+4,hva,indiv,C4,1200,300
+5,lv,all,C5,800,400
+6,hvb,indiv,C6,1100,350
+7,hvb,comp,C7,2500,1000
+8,hva,indiv,C2,1500,700
